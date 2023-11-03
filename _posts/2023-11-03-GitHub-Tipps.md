@@ -51,7 +51,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/).
 3. git push origin main
 ~~~
 
-Danach GitHub-Seite refreshen. 
+Danach GitHub-Seite refreshen. Bei 'Actions' sieht man den Prozess der Aktualisierung. 
 
 ### Punkt 4: Nützliche Links
 
