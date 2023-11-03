@@ -40,7 +40,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/).
 > Blockquote
 >> Nested Blockquote
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/).
+A link to [Jekyll Now](https://github.com/barryclark/jekyll-now/).
 ~~~
 
 ### Punkt 3: Drei Befehle zum Veröffentlichen der Posts
