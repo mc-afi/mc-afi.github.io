@@ -2,7 +2,7 @@
 title: Notizen zum veröffentlichen neuer Posts
 description: "Introduction to what Jekyll is about and how it works"
 date: 2023-11-03 16:39:00 +0100
-categories: 
+categories: [Blog]
 tags: [tipps]     # TAG names should always be lowercase
 ---
  
