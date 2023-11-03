@@ -2,7 +2,7 @@
 title: Notizen zum veröffentlichen neuer Posts
 description: "Introduction to what Jekyll is about and how it works"
 date: 2023-11-03 16:39:00 +0100
-categories: [GitHub, Jekyll]
+categories: [Basics]
 tags: [tipps]     # TAG names should always be lowercase
 ---
  
@@ -61,7 +61,7 @@ Fehler 2: Kategorien werden online nicht gebaut, **warum?**
 
 Fehler 3: Inhaltsverzeichnis wird nicht erstellt, **warum?**
 
-### Punkt 5: Nützliche Links
+### Punkt 5: Nützliche Links 
 
 [Youtube-Video](https://www.youtube.com/watch?v=m1RYsmOMPLs)
 
