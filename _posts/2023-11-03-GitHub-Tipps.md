@@ -2,7 +2,7 @@
 title: Notizen zum veröffentlichen neuer Posts
 description: "Introduction to what Jekyll is about and how it works"
 date: 2023-11-03 16:39:00 +0100
-categories: [GitHub, Jekyll, Chirpy]
+categories: [GitHub, Jekyll]
 tags: [tipps]     # TAG names should always be lowercase
 ---
  
@@ -53,7 +53,15 @@ A link to [Jekyll Now](https://github.com/barryclark/jekyll-now/).
 
 Danach GitHub-Seite refreshen. Bei 'Actions' sieht man den Prozess der Aktualisierung. 
 
-### Punkt 4: Nützliche Links
+### Punkt 4: Fehler
+
+Fehler 1: http-Links statt https-Links, erledigt
+
+Fehler 2: Kategorien werden online nicht gebaut, **warum?**
+
+Fehler 3: Inhaltsverzeichnis wird nicht erstellt, **warum?**
+
+### Punkt 5: Nützliche Links
 
 [Youtube-Video](https://www.youtube.com/watch?v=m1RYsmOMPLs)
 
